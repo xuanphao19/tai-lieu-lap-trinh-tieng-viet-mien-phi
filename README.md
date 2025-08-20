@@ -1,8 +1,8 @@
 # [Tờ Mờ Sáng học Lập trình](/README.md)
 
 > 📚 Tổng hợp rất nhiều video và tài liệu học lập trình miễn phí bằng tiếng Việt
-> 
-> Người tổng hợp: **[Trần Minh Sáng](https://www.facebook.com/sangtran.04/)**
+>
+> # Người tổng hợp: **[Trần Minh Sáng](https://www.facebook.com/sangtran.04/)**
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Ftmsanghoclaptrinh%2Ftai-lieu-lap-trinh-tieng-viet-mien-phi.json&label=visitors&color=blue"></a>
@@ -23,7 +23,6 @@
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=tmsanghoclaptrinh/tai-lieu-lap-trinh-tieng-viet-mien-phi&type=Date)](https://www.star-history.com/#tmsanghoclaptrinh/tai-lieu-lap-trinh-tieng-viet-mien-phi&Date)
-
 
 ## Nội dung chính
 
@@ -69,7 +68,6 @@
 - [Vue.js](#vuejs)
 - [Wordpress](#wordpress)
 
-
 ## Android
 
 - [Tự học Lập Trình Android từ A đến Z](https://www.youtube.com/playlist?list=PL6aoXCbsHwIayYCo9aDuzZ3dMC9oShs1u) - Kênh Công nghệ
@@ -83,7 +81,6 @@
 - [Lập trình Android - Android Studio](https://www.youtube.com/playlist?list=PLwJr0JSP7i8AU_esH4BC0NDz_m_yLV4PW) - XuanThuLab
 - [Lập trình Android cơ bản - v2022](https://www.youtube.com/playlist?list=PLn9lhDYvf_3FDMIcSTSuXZIAB1NJuPuaS) - Anh Nguyen Ngoc
 
-
 ## Angular
 
 - [Angular căn bản 2023](https://www.youtube.com/playlist?list=PLRhlTlpDUWswOJnLxzotd7MgqaRrBlZOG) - TEDU
@@ -96,7 +93,6 @@
 - [Angular 4 Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riTA1m7Dasg8eraBr6R9nFgC) - Khoa Phạm
 - [AngularJS căn bản cho người mới bắt đầu](https://www.youtube.com/playlist?list=PLRhlTlpDUWsw70vZAkJgALJ1yhgYsqDGx) - TEDU
 
-
 ## Assembly
 
 - [Asembly, lập trình hợp ngữ trên emu 8086](https://www.youtube.com/playlist?list=PLDYXQL9eThN7o1fsQIEn40eTiJCZTFVoc) - Huy Init
@@ -107,7 +103,6 @@
 - [Lập trình hợp ngữ Assembly 8051](https://www.youtube.com/playlist?list=PLBlxAM4UiXxQ2Vz7C-z1voTjDmsRqEEd1) - Vũ Minh Đức
 - [Lập Trình x86 Assembly](https://www.youtube.com/playlist?list=PLGZ_RWetU5HInf6eYocQXXAaikHbvZI81) - Lập Trình Nhúng A-Z
 - [Lập trình hợp ngữ](https://www.youtube.com/playlist?list=PL9sn2M__GrF--BchVjp9msnEniq3hWw1k) - K.Huynh.
-
 
 ## <a id="aspnet"></a>ASP.NET
 
@@ -121,7 +116,6 @@
 - [Web bán hàng ASP.NET Core 6 to 8 EF MVC](https://www.youtube.com/playlist?list=PLWTu87GngvNzYGOXJnXQwlkdhV6_RWs1b) - Hiếu Tutorial with live project
 - [Xây dựng ứng dụng web với ASP.NET Core](https://www.youtube.com/playlist?list=PLRhlTlpDUWsyP9PB1yrhNAYI7LC6yr4tZ) - TEDU
 
-
 ## AutoIt
 
 - [Học lập trình AutoIt từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLRqrlsp_0RPWgxqRv5vlXFFpa3s4VA7zZ) - J2TEAM
@@ -132,12 +126,10 @@
 - [Auto Game Tutorial](https://www.youtube.com/playlist?list=PLlhlxkw8o0Ga8Vg3Sw5iXHubFxoOvV6aq) - Tool By Autoit
 - [Học AutoIT - Auto game BoomOnline](https://www.youtube.com/playlist?list=PLMz2PqxT4j96uqILfWfypxsUPz9UiZZOM) - Triển IS Official
 
-
 ## Bash/Shell
 
 - [Lập trình Bash Shell Script cơ bản](https://www.youtube.com/playlist?list=PLcW6QFb7l0G7ukw6LBcPJbvxbFhgfX9-S) - Curry
 - [SHELL/BASH](https://www.youtube.com/playlist?list=PL1HxRSJMOMPKOJhefnyfYLICczYTiUGaK) - Toan Nguyen
-
 
 ## C
 
@@ -155,7 +147,6 @@
 - [Lập Trình C Từ Cơ Bản Đến Nâng Cao](https://www.youtube.com/playlist?list=PL6h8VcmH2PuJzGN8UFhMAoAsPcHg2uepd) - Full House
 - [Nhập môn LẬP TRÌNH CĂN BẢN với C](https://www.youtube.com/playlist?list=PLayYhLZuuO9t9F8tIKR5RE7HQbDwNtnSV) - giáo.làng
 
-
 ## <a id="cpp"></a>C++
 
 - [LẬP TRÌNH C++ TỪ CƠ BẢN ĐẾN NÂNG CAO](https://www.youtube.com/playlist?list=PLqfkD788zZGCmOyQaymJv4G-au94QqBLj) - Tờ Mờ Sáng học Lập trình
@@ -171,7 +162,6 @@
 - [Lập Trình Game C++ SDL](https://www.youtube.com/playlist?list=PLR7NDiX0QsfQQ2iFXsXepwH46wf3D4Y4C) - Phát Triển Phần Mềm 123A-Z
 - [Lập trình C++ từ cơ bản tới nâng cao](https://www.youtube.com/playlist?list=PLjnaYcKy3HzOq4SkNVvXQ1FaXk9QlEkaq) - Minh Quang
 - [Khoá học lập trình C++ từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLE1qPKuGSJaD7sejCSC8ivSueeesNFyov) - thân triệu
-
 
 ## <a id="csharp"></a>C\#
 
@@ -190,21 +180,18 @@
 - [HttpRequest - Crawl data từ website](https://www.youtube.com/playlist?list=PL33lvabfss1w4-G4wujhFVZGTlFkooCck) - K team
 - [Hướng dẫn code Game Server Basic & Game Client](https://www.youtube.com/playlist?list=PLm5N2Ku5IP9eZPS20m8AEpdzYNB-lQ7Dp) - Code Phủi
 
-
 ## Cấu trúc dữ liệu và Giải thuật
 
-*Chỉ cần mình repo dưới đây của tôi là đủ vì trong repo này tôi đã tổng hợp toàn bộ tài liệu bao gồm cả bài viết và video kể cả tiếng Việt lẫn tiếng Anh, sắp xếp theo từng cấu trúc dữ liệu và từng thuật toán rồi*
+_Chỉ cần mình repo dưới đây của tôi là đủ vì trong repo này tôi đã tổng hợp toàn bộ tài liệu bao gồm cả bài viết và video kể cả tiếng Việt lẫn tiếng Anh, sắp xếp theo từng cấu trúc dữ liệu và từng thuật toán rồi_
 👇👇👇
 
 - [Danh sách những tài liệu hay về Thuật toán và Lập trình thi đấu](https://github.com/tmsanghoclaptrinh/tmsang-hoc-thuat-toan) - Tờ Mờ Sáng học Lập trình
-
 
 ## Dart
 
 - [Lập trình Dart](https://www.youtube.com/playlist?list=PLRoAKls-7kksChE3OhiE2iAeCa7h1kk5k) - Migolab
 - [Lập trình ngôn ngữ Dart | Flutter cơ bản](https://www.youtube.com/playlist?list=PLRnNjVSYDePhLyD_bKgQnEGyL6R2-fKU1) - Tùng Sugar
 - [Lập trình Dart](https://www.youtube.com/playlist?list=PLanHRxSQZoQEs0ApO55id4KGyXUjPReQA) - Coder Studio
-
 
 ## ExpressJS
 
@@ -218,7 +205,6 @@
 - [React Native EventHub Fullstack với NodeJS ExpressJS MongoDB](https://www.youtube.com/playlist?list=PLwRuTV6YR6x1_CzgvKEDEPH1Czl6Mmu6h) - Đào Quang
 - [Học Nodejs cùng F8](https://www.youtube.com/playlist?list=PLwJIrGynFq9BZto5VvKw7OEDNxN6plq_3) - Tech Mely
 
-
 ## Flutter
 
 - [Tự học lập trình Flutter 2023](https://www.youtube.com/playlist?list=PL3Ob3F0T-08brnWfs8np2ROjICeT-Pr6T) - TinCoder
@@ -231,7 +217,6 @@
 - [Xây dựng ứng dụng Flutter thực tế.](https://www.youtube.com/playlist?list=PLFDupNa8166hj4TEZcq3_za4GirSiawzN) - Chàng Dev Mobile
 - [Tự học Flutter 2020](https://www.youtube.com/playlist?list=PLWBrqglnjNl3DzS2RHds5KlanGqQ1uLNQ) - Nguyen Duc Hoang
 
-
 ## Git
 
 - [Cách sử dụng Git trong THỰC TẾ](https://www.youtube.com/watch?v=O5uT6p6VWjY) - Ông Dev
@@ -240,7 +225,6 @@
 - [Học Git và Github](https://www.youtube.com/playlist?list=PLyxSzL3F7485Xgn7novgNxnou8QU6i485) - TITV
 - [Git Siêu Căn Bản Cho Người Mới Bắt Đầu Từ Z Đến A với Hỏi Dân IT](https://www.youtube.com/playlist?list=PLncHg6Kn2JT6nWS9MRjSnt6Z-9Rj0pAlo) - Hỏi Dân IT
 - [Tóm tắt toàn diện về việc sử dụng Git và quy trình làm việc của GitFlow và sếp yêu cầu tôi phải học](https://www.youtube.com/watch?v=vQgcl8VouLU) - Tips Javascript
-
 
 ## Go
 
@@ -253,14 +237,12 @@
 - [Course - Go Backend Architecture](https://www.youtube.com/playlist?list=PLw0w5s5b9NK6qiL9Xzki-mGbq_V8dBQkY) - Tips Javascript
 - [Tự học Golang trong 5 giờ. Học xong kiếm lương ngàn đô!](https://www.youtube.com/playlist?list=PLC4c48H3oDRwlxVzOv2L8CXF7tZmtPHkn) - The Funzy Dev
 
-
 ## HTML, CSS
 
 - [HTML, CSS từ Zero Tới Hero](https://www.youtube.com/playlist?list=PL_-VfJajZj0U9nEXa4qyfB4U5ZIYCMPlz) - F8 Official
 - [HTML, CSS cơ bản dễ hiểu- học lập trình online miễn phí](https://www.youtube.com/playlist?list=PLPt6-BtUI22oveeGAyckbAXRSmTBGLZP4) - Gà Lại Lập Trình
 - [HTML Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w135_M4YRPzYD9_6tERz3ce) - Thạch Phạm
 - [CSS Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w1cnIhegAj5_mE8w_mbYvY4) - Thạch Phạm
-
 
 ## Java
 
@@ -279,7 +261,6 @@
 - [Khoá Học Java Nâng Cao](https://www.youtube.com/playlist?list=PLMPBVRu4TjAxXA5KuqKFU7gwGiucyif_r) - Trần Văn Điệp Official
 - [Khóa học lập trình Backend Java Spring(28tech)](https://www.youtube.com/playlist?list=PLPCCr-MyxGncORR0AX73cVlz_WGQhKn4e) - khangmoihocit
 
-
 ## JavaScript
 
 - [Javascript Cơ Bản](https://www.youtube.com/playlist?list=PL_-VfJajZj0VgpFpEVFzS5Z-lkXtBe-x5) - F8 Official
@@ -293,8 +274,7 @@
 - [🔥 Javascript cho người mới bắt đầu 🚀](https://www.youtube.com/playlist?list=PLeS7aZkL6GOtpuqMKVTfS37RNTlkolLCk) - Easy Frontend
 - [Khóa học Javascript siêu dễ 2023 - Lập trình thật dễ](https://www.youtube.com/playlist?list=PL_QEvEi9neNS1rdD8jeQR0xP0EZEiSELT) - Lập trình thật dễ
 - [Tự học Javascript - Lập trình Javascript](https://www.youtube.com/playlist?list=PLv6GftO355AvAl13CUVcVvWu0hOZnpfW8) - ZendVN
-- [Tự Học JavaScript Nâng Cao -  Modern JavaScript Từ A đến Z Cho Beginners](https://www.youtube.com/playlist?list=PLncHg6Kn2JT4eGJ__iQv6BrvL_YnZLHyX) - Hỏi Dân IT
-
+- [Tự Học JavaScript Nâng Cao - Modern JavaScript Từ A đến Z Cho Beginners](https://www.youtube.com/playlist?list=PLncHg6Kn2JT4eGJ__iQv6BrvL_YnZLHyX) - Hỏi Dân IT
 
 ## jQuery
 
@@ -307,14 +287,12 @@
 - [Tự học Jquery](https://www.youtube.com/playlist?list=PLJz8fm2GRwfX7ZbZGuOSpsdQ1BBdzsPeN) - Tiến Nguyễn
 - [Học jQuery từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLjjB_k3ljmLRu_Xvtq7pxOEhgikS6xonm) - Ngọc Hoàng IT
 
-
 ## Kotlin
 
 - [Học Android + Kotlin cơ bản](https://www.youtube.com/playlist?list=PLpgD-OxlvlqFNyyaFlan2-WTtSaBkWllm) - Xin chào, mình là Sữa
 - [Android với kolin cho người mới](https://www.youtube.com/playlist?list=PLPt6-BtUI22qf3KE1V1PyAm1v8M2qqwL5) - Gà Lại Lập Trình
 - [Lập trình Android với Kotlin full tại Khoa Phạm](https://www.youtube.com/playlist?list=PLzrVYRai0riRFcvx8VYTF7fx4hXbd_nhU) - Khoa Phạm
-- [Lập trình Kotlin từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLn9lhDYvf_3E_5JZ-1jlk67o9101Lu9N6) - Anh Nguyen Ngoc 
-
+- [Lập trình Kotlin từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLn9lhDYvf_3E_5JZ-1jlk67o9101Lu9N6) - Anh Nguyen Ngoc
 
 ## Machine Learning
 
@@ -326,7 +304,6 @@
 - [Machine learning vietsub](https://www.youtube.com/playlist?list=PLDpRz2wA0qZzTcDLeXP5PSCfmQ96l9-Qr) - Lân ở Đức
 - [Machine Learning](https://www.youtube.com/playlist?list=PLsWjY--3QXFWE1Nk6erXuTSf3QLC161pm) - Son Tran
 
-
 ## MongoDB
 
 - [Tự học NoSQL - MongoDB](https://www.youtube.com/playlist?list=PLv6GftO355Aug0rwKfb6v96mlYrwOw7XV) - ZendVN
@@ -336,7 +313,6 @@
 - [Học lập trình Web BackEnd NodeJS và MongoDB thực chiến](https://www.youtube.com/playlist?list=PLimFJKGsbn1lQlDQW3A5yb2CdVJ8MqqG8) - Thien Tam Nguyen
 - [Khóa học lập trình backend Nodejs và MongoDB](https://www.youtube.com/playlist?list=PLEnECmpTzvQO-1tEWazRmPNV02vkUhU0R) - Kênh Tổng Hợp Source Code Website
 - [Học MongoDB trọn vẹn trong 1 giờ 30 phút](https://www.youtube.com/watch?v=8Nx7cdwT86c) - Trần Quốc Huy
-
 
 ## MySQL
 
@@ -349,14 +325,12 @@
 - [Khoá học PHP & MYSQL bài bản từ A-Z](https://www.youtube.com/playlist?list=PL88QwC-jiH9ByYqO0mVStNEHB6QT24yx1) - Hienu
 - [Hiểu toàn bộ MySQL Database trong 1 giờ 42 phút](https://www.youtube.com/watch?v=TslBGnENTFw) - Trần Quốc Huy
 
-
 ## Next.js
 
 - [[2024] Học Next.js 14 miễn phí | Khóa học NextJs TypeScript siêu chi tiết | Được Dev](https://www.youtube.com/playlist?list=PLFfVmM19UNqn1ZIWvxn1artfz-C6dgAFb) - Được Dev
 - [Tự Học Next.JS Cơ Bản (với React và TypeScript) | Hỏi Dân IT](https://www.youtube.com/playlist?list=PLncHg6Kn2JT6zw4JiFOE1z90ghnyrFl5B) - Hỏi Dân IT
 - [NextJS cơ bản 🎉](https://www.youtube.com/playlist?list=PLeS7aZkL6GOuMvDYcyW9VVLCvKnNhm4It) - Easy Frontend
 - [Lập trình NextJS](https://www.youtube.com/playlist?list=PLv6GftO355AvWAQv4or-RE2RAFFXaI3Jz) - ZendVN - Học Lập Trình Online
-
 
 ## NodeJS
 
@@ -371,23 +345,20 @@
 - [Course - Node.js Backend Architecture](https://www.youtube.com/playlist?list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8) - Tips Javascript
 - [UDEMY - Backend RESTFul Server với Node.JS và Express (SQL/MongoDB)](https://www.youtube.com/playlist?list=PLncHg6Kn2JT734qFpgJeSfFR0mMOklC_3) - Hỏi Dân IT
 
-
 ## PHP
 
 - [Học Lập Trình PHP + Mysql](https://www.youtube.com/playlist?list=PLaevEBkXyvnXEMoe6ZHFJGjPDb_eCCVNc) - Hoàng Thương Official
 - [Khoá học PHP & MYSQL bài bản từ A-Z](https://www.youtube.com/playlist?list=PL88QwC-jiH9ByYqO0mVStNEHB6QT24yx1) - Học Lập Trình - Hienu
 - [Tự Học Lập trình PHP](https://www.youtube.com/playlist?list=PLv6GftO355AsZFXlWLKob6tMsWZa4VCY1) - ZendVN - Học Lập Trình Online
-- [Tự học PHP  Laravel Framework cho người mới bắt đầu](https://www.youtube.com/playlist?list=PLsVJaIeVT78qJEPWJ9rIwgPCcmuVI-r4k) - Đặng Kim Thi
+- [Tự học PHP Laravel Framework cho người mới bắt đầu](https://www.youtube.com/playlist?list=PLsVJaIeVT78qJEPWJ9rIwgPCcmuVI-r4k) - Đặng Kim Thi
 - [Lập trình PHP1 - SU22](https://www.youtube.com/playlist?list=PLieAxB9_noZlWuur0Hxw7BIYVbGJ-hS0N) - Thầy Hộ Fpoly
 - [Học php từ cơ bản đến nâng cao - web bán hàng](https://www.youtube.com/playlist?list=PLSMUwja5VsJWoq5VmD5cW2Xoy52FILBV3) - gv cybersoft
-
 
 ## PostgreSQL
 
 - [Học PostgreSQL qua ví dụ || PostgreSQL Tutorial](https://www.youtube.com/playlist?list=PLMbuMydSxMKxfg0OeJJoNsdRTnTIEcqmg) - Lập Trình B2A
 - [Postgresql cơ bản](https://www.youtube.com/playlist?list=PLRoAKls-7kksI-BbBn_ihFB9sRjSrDrs4) - Migolab
 - [Hiểu toàn bộ PostgreSQL trong 1h30p - 2023](https://www.youtube.com/watch?v=OUlLQK_gN8k) - Trần Quốc Huy
-
 
 ## Python
 
@@ -403,7 +374,6 @@
 - [Tự học python cơ bản](https://www.youtube.com/playlist?list=PLUocOGc7RDEJAH2152KaiY9H8S-C8TvT-) - Gà Python
 - [Khóa học Lập trình Game với Python](https://www.youtube.com/playlist?list=PLzQuu4-Qxlh47gX_HnqKSJIycFNekP79m) - Học Công Nghệ
 
-
 ## R
 
 - [Hướng dẫn học R](https://www.youtube.com/playlist?list=PLMIaO-u3S5-jO2rMt8r8HD5ifiZv_Sd9O) - SciEco
@@ -413,7 +383,6 @@
 - [HƯỚNG DẪN SỬ DỤNG R ĐỂ XỬ LÝ DỮ LIỆU](https://www.youtube.com/playlist?list=PLCKFKYBfLgPU4mSgJ-5MhGDcki2UTBr2H) - DUC NGUYEN
 - [Phân tích dữ liệu bằng ngôn ngữ R](https://www.youtube.com/playlist?list=PLteVqnBNrrGWr8qmCJienB1ySL93aiIpW) - Chiến Tiên Nhân
 - [Thống kê trong R-Studio](https://www.youtube.com/playlist?list=PL9XZJEFXvG9E9HJn2n1Gu_TLAsVPc1MkJ) - [Học một chút]
-
 
 ## React
 
@@ -427,12 +396,10 @@
 - [ReactJS - Demo các project trong khóa học](https://www.youtube.com/playlist?list=PLv6GftO355Av08p6Zi1I67VYw47nMS8xO) - ZendVN - Học Lập Trình Online
 - [Redux Cơ Bản](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-tmotihDcWZN0LvtXFyxmRZ) - CodersX
 
-
 ## Ruby
 
 - [Từ ruby tới rails 2022](https://www.youtube.com/playlist?list=PL2hl9DVcc5u1f2uhSYko6Ea3bdaI_BGeB) - Lupca
 - [Học Ruby on Rails Căn Bản](https://www.youtube.com/playlist?list=PLFoXG6w6FhAp8WtQ7GicFWfILjdegaNET) - Luân Nguyễn Thành
-
 
 ## Rust
 
@@ -441,7 +408,6 @@
 - [Rust Back-End - Microservices | Server High Performance](https://www.youtube.com/playlist?list=PLFnEYduGTiXEPQ1pVCcg5zxgBS4RwM6wd) - Jayden Dang
 - [Rust](https://www.youtube.com/playlist?list=PLbVzvoeVj6gTQvZq46tqqvDQ8d5WZbBPT) - Nỡm
 
-
 ## SASS
 
 - [Tự Học Sass](https://www.youtube.com/playlist?list=PLv6GftO355AtWld1EE7SBAH-OkKKt23Bb) - ZendVN - Học Lập Trình Online
@@ -449,7 +415,6 @@
 - [Khóa Học Lập Trình SCSS Từ Căn Bản Đến Nâng Cao](https://www.youtube.com/playlist?list=PLJ5qtRQovuEMWzLVs3iuwcNsWeElizTwF) - Nghiep Phan
 - [Khóa Học Lập Trình SASS](https://www.youtube.com/playlist?list=PLIRbquK6vGyf7sCUAGAYFOrS-kgbBc-O1) - IT News
 - [SASS](https://www.youtube.com/playlist?list=PLw_erwgZq4-EGs9VEEKROpDbjCuzgx01W) - ZenDvn
-
 
 ## Security
 
@@ -469,7 +434,6 @@
 - [Hướng dẫn Bug Bounty cho người mới](https://www.youtube.com/playlist?list=PLu9yx0lLtsRgpVspJJeZ_CfcsDY-onsCo) - Cookie Han Hoan
 - [Tìm kiếm lỗ hổng Web](https://www.youtube.com/playlist?list=PLu9yx0lLtsRhM3QN-R6tzMbLr7gBmD6c-) - Cookie Han Hoan
 
-
 ## SQL
 
 - [Tự Học SQL cùng Vịt - Khóa Cơ Bản cho Người Mới Bắt Đầu](https://www.youtube.com/playlist?list=PL01fPqVNMdrmtcb_Yui_Oh23X_3laoZoO) - Vịt làm Data
@@ -479,7 +443,6 @@
 - [Hướng dẫn học SQL siêu dễ hiểu](https://www.youtube.com/watch?v=XQbBW4atzr8) - Maz Học Data
 - [Hiểu toàn bộ MySQL Database trong 1 giờ 42 phút](https://www.youtube.com/watch?v=TslBGnENTFw) - Trần Quốc Huy
 
-
 ## SQL Server
 
 - [Khóa học SQL Server cho người mới (2023)](https://www.youtube.com/playlist?list=PLyxSzL3F7484deka_j1czssCiHygV6oF-) - TITV
@@ -487,7 +450,6 @@
 - [Tự Học SQL Server Cơ Bản](https://www.youtube.com/playlist?list=PLyOUYAtDpqrfVUnjw5h0kG5a2-b9sHNKd) - Học Viện Công nghệ MCI
 - [Tự học Microsoft SQL Server](https://www.youtube.com/playlist?list=PLNJklplv9g14lsZqtDd879kdyrs02NlBx) - 1Click2beDBA
 - [Học SQL Server trong 60 phút - 2023](https://www.youtube.com/watch?v=alqEF4I23nw) - Trần Quốc Huy
-
 
 ## Swift
 
@@ -500,7 +462,6 @@
 - [Lập trình iOS cơ bản với Swift 3 và Xcode 8](https://www.youtube.com/playlist?list=PLzrVYRai0riSlAocQR3BvHCtEhcKa204E) - Trung Tâm Đào Tạo Công Nghệ Khoa Phạm
 - [Swift - Tổng quan](https://www.youtube.com/playlist?list=PLR1-CgtL7hK6bbuXUSgAKZveZsKa2tehl) - Dev Step by Step
 
-
 ## TypeScript
 
 - [Tự Học TypeScript Cơ Bản Từ A đến Z Cho Người Mới Bắt Đầu](https://www.youtube.com/playlist?list=PLncHg6Kn2JT5emvXmG6kgeGkrQjRqxsb4) - Hỏi Dân IT
@@ -510,7 +471,6 @@
 - [ReactJS và Typescript Cho Người Mới Bắt Đầu](https://www.youtube.com/playlist?list=PLnRJxWEhhmzpneEcZIZY_fs18OANMlxhA) - Ninedev
 - [Tự Học Fullstack Next.js/Nest.js (TypeScript)](https://www.youtube.com/playlist?list=PLncHg6Kn2JT5009M5nlo_un6wlIHM-0HS) - Hỏi Dân IT
 - [ES6 & TypeScript cho người mới bắt đầu](https://www.youtube.com/playlist?list=PLRhlTlpDUWswObIX8HNCSHWOpgvjMiMe2) - TEDU
-
 
 ## Unity
 
@@ -528,7 +488,6 @@
 - [G2: Cách làm Game 2D và Tower Defense](https://www.youtube.com/playlist?list=PL9YFzEkTXjbMkbjtjdxHFySO5rhPN1uMx) - Sai Game
 - [G3: Cách làm game thẻ bài - Game Card](https://www.youtube.com/playlist?list=PL9YFzEkTXjbP7XXmElG-bRc5R84Hxifes) - Sai Game
 
-
 ## Vue.js
 
 - [Khoá học Vuejs từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLwJIrGynFq9B_BQJZJi-ikWDDkYKVUpM5) - Tech Mely
@@ -538,7 +497,6 @@
 - [Vue js 3 Cơ Bản](https://www.youtube.com/playlist?list=PL7akNQhSmpsZUB7aP-ttyYVHHaKjn0W7P) - Tips Web Hay
 - [Series Tự học Vuejs 3 A - Z](https://www.youtube.com/playlist?list=PLieV0Y7g-FFy_hVCs3lf973Yo8_rsRGc0) - Tự học lập trình từ A đến Z
 - [Demo Dự án Vue JS 3!](https://www.youtube.com/playlist?list=PL7akNQhSmpsYTQsV6jqZmmlLEu37IWA7f) - Tips Web Hay
-
 
 ## Wordpress
 
