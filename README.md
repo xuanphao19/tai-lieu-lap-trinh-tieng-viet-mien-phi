@@ -1,8 +1,8 @@
 # [Tờ Mờ Sáng học Lập trình](/README.md)
 
-> 📚 Tổng hợp rất nhiều video và tài liệu học lập trình miễn phí bằng tiếng Việt
+> ### 📚 Tổng hợp rất nhiều video và tài liệu học lập trình miễn phí bằng tiếng Việt
 >
-> # Người tổng hợp: **[Trần Minh Sáng](https://www.facebook.com/sangtran.04/)**
+> # **[Người tổng hợp: Trần Minh Sáng](https://www.facebook.com/sangtran.04/)**
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Ftmsanghoclaptrinh%2Ftai-lieu-lap-trinh-tieng-viet-mien-phi.json&label=visitors&color=blue"></a>
